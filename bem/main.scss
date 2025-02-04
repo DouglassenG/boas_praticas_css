@@ -27,10 +27,10 @@
     &__descricao { 
         color: gray;
         
-        &--destaque { 
-            border: 2px solid gold;
-            padding: 8px;
-            background-color: #ffff42;
-        }
+    }
+    &--destaque { 
+        border: 2px solid gold;
+        padding: 8px;
+        background-color: #ffff42;
     }
 }
