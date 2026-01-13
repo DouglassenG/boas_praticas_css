@@ -16,10 +16,6 @@ Este projeto resolve problemas comuns como:
 * **Código Duplicado:** Criando classes reutilizáveis.
 * **Dificuldade de Leitura:** Usando nomes de classes semânticos que descrevem a função do elemento (ex: `.produto-botao` ao invés de `.btn-azul`).
 
-## 🖼️ Demonstração Visual
-
-*(Se possível, adicione aqui um print da interface, como a vitrine de produtos ou layout criado)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 A stack é minimalista, focando na pureza da implementação:
